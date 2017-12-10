@@ -1,0 +1,25 @@
+{
+  "name": "test_string",
+  "version": "1.0.0",
+  "description": "test string using node js eaa....",
+  "main": "app.js",
+  "scripts": {
+    "test": "progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyosokaPoipo/test_string_nodejs.git"
+  },
+  "keywords": [
+    "test",
+    "string",
+    "node",
+    "js"
+  ],
+  "author": "HyosokaPoipo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyosokaPoipo/test_string_nodejs/issues"
+  },
+  "homepage": "https://github.com/HyosokaPoipo/test_string_nodejs#readme"
+}
