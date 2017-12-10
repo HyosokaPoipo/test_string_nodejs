@@ -4,6 +4,7 @@
   "description": "test string using node js eaa....",
   "main": "app.js",
   "scripts": {
+    "start" : "node app",
     "test": "progress"
   },
   "repository": {
